@@ -6,3 +6,7 @@ Coursera
 
 Swirl
 -Public repository at______
+
+
+World Bank. DIME. [R for Stata users](https://github.com/worldbank/dime-r-training).
+
