@@ -15,4 +15,5 @@ Specializations
 
 APIs or Libraries:
 
-a. Koalas. Pandas API on Apache Spark (https://koalas.readthedocs.io/en/latest/)
+a. [Koalas](https://koalas.readthedocs.io/en/latest/). Pandas API on Apache Spark 
+b. [Layout Parser](https://dell-research-harvard.github.io/resources/layout-parser). By Melissa Dell 
