@@ -7,7 +7,7 @@ Coursera
 
 Useful public personal websites:
 1. Raj Chetty. Harvard.
-  a. [Using Big Data to Solve Economic and Social Problems](https://opportunityinsights.org/course/)
+  a. [Using Big Data to Solve Economic and Social Problems](https://opportunityinsights.org/course/)  /n
   b. [Public Economics](http://www.rajchetty.com/lectures/public/)
   
 3. Mauricio Romero. ITAM
