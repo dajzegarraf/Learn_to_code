@@ -10,7 +10,7 @@ Useful public personal websites:
     a. [Using Big Data to Solve Economic and Social Problems](https://opportunityinsights.org/course/)   
     b. [Public Economics](http://www.rajchetty.com/lectures/public/)
   
-2. Mauricio Romero. ITAM.\  
+2. Mauricio Romero. ITAM.  
     a. [Teaching materials](https://mauricio-romero.com/teaching/) (Micro, Game Theory, Econometrics)
 
 
