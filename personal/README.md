@@ -13,5 +13,8 @@ Useful public personal websites:
 2. Mauricio Romero. ITAM.  
     a. [Teaching materials](https://mauricio-romero.com/teaching/) (Micro, Game Theory, Econometrics)
 
+3. Joshua Blumenstock. UC Berkeley.
+    a. [Big Data & Development](https://sites.ischool.berkeley.edu/bdd/)
+    b. [Applied Machine Learning](http://www.jblumenstock.com/teaching/course=info251)
 
 
