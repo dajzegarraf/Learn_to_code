@@ -18,8 +18,8 @@ Useful public personal websites:
     b. [Applied Machine Learning](http://www.jblumenstock.com/teaching/course=info251)
 
 4. Edward Miguel. UC Berkeley  
-    a.[Graduate Development Economics](http://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Econ-270B-Syllabus-Spring20_2020-01-22.pdf)  
-    b.[Teaching materials](http://emiguel.econ.berkeley.edu/teaching/courses/)
+    a. [Graduate Development Economics](http://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Econ-270B-Syllabus-Spring20_2020-01-22.pdf)  
+    b. [Teaching materials](http://emiguel.econ.berkeley.edu/teaching/courses/)
 
 
 
