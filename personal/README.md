@@ -17,9 +17,10 @@ Useful public personal websites:
     a. [Big Data & Development](https://sites.ischool.berkeley.edu/bdd/)  
     b. [Applied Machine Learning](http://www.jblumenstock.com/teaching/course=info251)
 
-4. Edward Miguel. UC Berkeley  
+4. Edward Miguel. UC Berkeley.  
     a. [Graduate Development Economics](http://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Econ-270B-Syllabus-Spring20_2020-01-22.pdf)  
     b. [Teaching materials](http://emiguel.econ.berkeley.edu/teaching/courses/)
 
-
+5. Lepoldo Fergusson. Universidad de los Andes.  
+    a.[Teaching materials](https://www.leopoldofergusson.com/teaching)
 
