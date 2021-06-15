@@ -22,5 +22,5 @@ Useful public personal websites:
     b. [Teaching materials](http://emiguel.econ.berkeley.edu/teaching/courses/)
 
 5. Lepoldo Fergusson. Universidad de los Andes.  
-    a.[Teaching materials](https://www.leopoldofergusson.com/teaching)
+    a. [Teaching materials](https://www.leopoldofergusson.com/teaching)
 
