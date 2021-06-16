@@ -22,5 +22,6 @@ Useful public personal websites:
     b. [Teaching materials](http://emiguel.econ.berkeley.edu/teaching/courses/)
 
 5. Lepoldo Fergusson. Universidad de los Andes.  
-    a. [Teaching materials](https://www.leopoldofergusson.com/teaching) (Political Economy, Economic History)
-
+    a. [Teaching materials](https://www.leopoldofergusson.com/teaching) (Political Economy, Economic History)  
+6. Joshua Angrist. MIT  
+    a. [Teaching materials](https://economics.mit.edu/faculty/angrist/teaching) (Econometrics)
