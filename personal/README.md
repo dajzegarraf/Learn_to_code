@@ -33,3 +33,7 @@ Useful public personal websites:
 
 Public Repositories  
 1. IADB. [Código para el Desarrollo.](https://code.iadb.org/es)
+
+
+PhD Applications
+1. Chakravorty, T., Kekre, A., Kundu, P., Narula, L. & Vaibhav, O. (2021). [Applying to PhD Programs in Economics: An Extensive Guide.](https://drive.google.com/file/d/1cTb8enoUZxFKscidXYwojK3bXSjb7dxr/view)
