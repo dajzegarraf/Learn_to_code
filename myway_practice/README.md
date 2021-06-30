@@ -5,5 +5,7 @@ Useful programming practice scripts
 2. Diamond Pollock, H., Chuang, E. & Wykstra, S. (2015). IPA's Best Practices for Data and Code Management. https://www.poverty-action.org/sites/default/files/publications/IPA-Best-Practices-for-Data-and-Code-Management-Nov-2015.pdf
 
 3. Bjärkefur, Kristoffer, Luíza Cardoso de Andrade, Benjamin Daniels, and Maria
-Ruth Jones. 2021. Development Research in Practice: The DIME Analytics Data Handbook. Washington, DC: World Bank.
+Ruth Jones. 2021. [Development Research in Practice: The DIME Analytics Data Handbook.](https://openknowledge.worldbank.org/bitstream/handle/10986/35594/9781464816949.pdf?sequence=2&isAllowed=y) Washington, DC: World Bank.
 doi:10.1596/978-1-4648-1694-9. 
+
+4. For more material in World Bank, check [Open Knowledge Repository.](https://openknowledge.worldbank.org/) 
