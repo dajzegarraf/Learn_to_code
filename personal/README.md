@@ -33,7 +33,7 @@ Useful public personal websites:
 9. Chris Blattman. UChicago Harris  
     a. [Teaching materials](https://chrisblattman.com/teaching/) (Political Economy)   
 10. Claudio Ferraz. UBC and PUC-Rio  
-    a. [Teaching materials](https://sites.google.com/site/claudferraz/teaching_1)(Political Economy)  
+    a. [Teaching materials](https://sites.google.com/site/claudferraz/teaching_1) (Political Economy)  
     
 
 
