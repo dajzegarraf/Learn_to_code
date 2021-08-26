@@ -33,9 +33,10 @@ Useful public personal websites:
 9. Chris Blattman. UChicago Harris  
     a. [Teaching materials](https://chrisblattman.com/teaching/) (Political Economy)   
 10. Claudio Ferraz. UBC and PUC-Rio  
-    a. [Teaching materials](https://sites.google.com/site/claudferraz/teaching_1) (Political Economy)  
-    
-
+    a. [Teaching materials](https://sites.google.com/site/claudferraz/teaching_1) (Political Economy)   
+11. Alvaro Riascos. Universidad de los Andes.  
+    a. [Game theory](https://www.alvaroriascos.com/teaching/teoriajuegos/)  
+    b. [Teaching materials](https://www.alvaroriascos.com/teaching/)  
 
 Public Repositories  
 1. IADB. [Código para el Desarrollo.](https://code.iadb.org/es)
@@ -47,4 +48,4 @@ PhD Applications
 Job experience  
 1. [Econ RA Guide](https://raguide.github.io/)  
 2. [EconThaki](https://econthaki.github.io/) (Econ RA Lationamerican guide)  
-3. [Public Goods (by Christine Cai)](https://christinecai.github.io/items/PublicGoods.html)
+3. [Public Goods](https://christinecai.github.io/items/PublicGoods.html) (by Christine Cai)
