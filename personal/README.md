@@ -46,4 +46,5 @@ PhD Applications
 
 Job experience  
 1. [Econ RA Guide](https://raguide.github.io/)  
-2. [EconThaki](https://econthaki.github.io/) (Econ RA Lationamerican guide)
+2. [EconThaki](https://econthaki.github.io/) (Econ RA Lationamerican guide)  
+3. [Public Goods (by Christine Cai)](https://christinecai.github.io/items/PublicGoods.html)
