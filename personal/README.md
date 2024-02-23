@@ -45,7 +45,7 @@ Public Repositories
 PhD Applications
 1. Chakravorty, T., Kekre, A., Kundu, P., Narula, L. & Vaibhav, O. (2021). [Applying to PhD Programs in Economics: An Extensive Guide.](https://drive.google.com/file/d/1cTb8enoUZxFKscidXYwojK3bXSjb7dxr/view)
 
-Job experience  
+Work experience  
 1. [Econ RA Guide](https://raguide.github.io/)  
 2. [EconThaki](https://econthaki.github.io/) (Econ RA Lationamerican guide)  
 3. [Public Goods](https://christinecai.github.io/items/PublicGoods.html) (by Christine Cai)
